@@ -1,11 +1,12 @@
-#thinkpad x1 yoga hackintosh 
+# thinkpad x1 yoga hackintosh 
 
-#Config
+# Config
+
 CPU:i5-8250u
+
 RAM:8G
 
-
-#The part that can work
+# The part that can work
 Sound card (AppleALC)
 intel cable Gigabit LAN (mini RJ45)
 intel integrated graphics
