@@ -10,33 +10,22 @@
 
 ## Working part/ Not working part
 
-'working:'
+** working: **
 
 * Sound card (AppleALC)
-
 * intel integrated graphics
-
 * Battery level display (DSDT patch)
-
 * Thunderbolt 3
-
 * Machine sleep
-
 * usb port configuration
-
 * Touchpad and touch screen (with multi-touch guester)
-
 * Keyboard function keys, volume and screen brightness 
-
 * Audio
-
 * brightness adjustment (via Fn+F5/F6)
-
 * Wifi and Bluetooth (changed wifi card with BCM94352Z)
-
 * HDMI output
 
-'Not working:'
+** Not working: **
 
 * Fingerprint reader
 
