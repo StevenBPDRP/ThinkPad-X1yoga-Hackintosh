@@ -3,14 +3,12 @@
 ## My Config
 
 * CPU:i5-8250u
-
 * RAM:8G
-
 * Screen:1920x1080
 
 ## Working part/ Not working part
 
-** working: **
+_working:_
 
 * Sound card (AppleALC)
 * intel integrated graphics
@@ -25,8 +23,6 @@
 * Wifi and Bluetooth (changed wifi card with BCM94352Z)
 * HDMI output
 
-** Not working: **
-
+_Not working:_
 * Fingerprint reader
-
 * SD card reader
