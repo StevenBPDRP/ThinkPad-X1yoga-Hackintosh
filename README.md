@@ -1,28 +1,43 @@
 # thinkpad x1 yoga hackintosh 
 
-## Config
+## My Config
 
-CPU:i5-8250u
+*CPU:i5-8250u
 
-RAM:8G
+*RAM:8G
 
-## The part that can work
-Sound card (AppleALC)
+*Screen:1920x1080
 
-intel cable Gigabit LAN (mini RJ45)
+## Working part/ Not working part
 
-intel integrated graphics
+'working:'
 
-Battery level display (DSDT patch)
+*Sound card (AppleALC)
 
-Thunderbolt 3
+*intel integrated graphics
 
-Machine sleep
+*Battery level display (DSDT patch)
 
-usb port configuration
+*Thunderbolt 3
 
-Touchpad and touch screen
+*Machine sleep
 
-Keyboard function keys, volume and screen brightness 
+*usb port configuration
 
-Wifi and Bluetooth (changed by BCM94352Z)
+*Touchpad and touch screen (with multi-touch guester)
+
+*Keyboard function keys, volume and screen brightness 
+
+*audio
+
+*brightness adjustment (via Fn+F5/F6)
+
+*Wifi and Bluetooth (changed wifi card with BCM94352Z)
+
+*HDMI output
+
+'Not working:'
+
+*Fingerprint reader
+
+*SD card reader
