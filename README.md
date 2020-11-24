@@ -5,6 +5,7 @@
 * CPU:i5-8250u
 * RAM:8G
 * Screen:1920x1080
+* MacOS: 10.15.7 Catalina
 
 ## Working part/ Not working part
 
